@@ -1,11 +1,20 @@
 {
   "index": "Introduction",
   "getting-started": "Getting Started",
+  "contributing": "Contributing",
+  "pipeline": "RAG Pipeline",
   "indexing": "Indexing",
+  "retrival-generation": "Retrieval and Generation",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
     "href": "https://twitter.com/markchennext",
+    "newWindow": true
+  },
+  "linkedin": {
+    "title": "Founder's LinkedIn ↗",
+    "type": "page",
+    "href": "https://www.linkedin.com/in/mark-chen-next/",
     "newWindow": true
   }
 }
