@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/MarkCodering/rag-cookbook",
   "dependencies": {
-    "@vercel/analytics": "^1.2.2",
     "next": "^13.0.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
