@@ -1,6 +1,8 @@
 {
   "index": "RAG Cookbook",
   "getting-started": "Getting Started",
+  "contributing": "Contributing",
+  "Pipeline": "Pipeline",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
