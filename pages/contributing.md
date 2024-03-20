@@ -1,4 +1,5 @@
 # Contributor's Guide for the RAG Cookbook
+
 **Contributor's Guide for the RAG Cookbook with GitHub Issue and PR Pipeline**
 
 Welcome to the contributor’s guide for the RAG Cookbook, where your expertise can help shape a comprehensive resource for AI engineers interested in Retrieval-Augmented Generation. This guide outlines how to contribute using GitHub, focusing on issues and pull requests (PRs).
@@ -34,5 +35,3 @@ Welcome to the contributor’s guide for the RAG Cookbook, where your expertise 
 - **Acknowledgment**: Contributors who have successfully merged PRs will be acknowledged in the project’s documentation or a dedicated contributors’ list, highlighting the community-driven effort behind the RAG Cookbook.
 
 By following these steps, you can effectively contribute to the RAG Cookbook using GitHub’s issue and PR pipeline, fostering a collaborative and dynamic community of AI professionals dedicated to advancing the field of Retrieval-Augmented Generation.
-
----

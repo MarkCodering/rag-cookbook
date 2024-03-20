@@ -1,1 +1,2 @@
 # RAG Pipeline
+The RAG Pipeline is a comprehensive guide to the end-to-end process of building and deploying a Retrieval-Augmented Generation (RAG) system. This pipeline provides a structured approach to developing RAG systems, including data collection, pre-processing, model training, and deployment. The RAG Pipeline is designed to help AI engineers and researchers understand the key components and best practices for building RAG systems, enabling them to create effective and scalable solutions for a wide range of applications.
