@@ -2,9 +2,6 @@
   "index": "Introduction",
   "getting-started": "Getting Started",
   "contributing": "Contributing",
-  "pipeline": "RAG Pipeline",
-  "indexing": "Indexing",
-  "retrival-generation": "Retrieval and Generation",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
