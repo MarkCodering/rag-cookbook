@@ -1,6 +1,6 @@
 {
   "name": "rag-cookbook",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The cookbook for the RAG project by MarkCodering",
   "scripts": {
     "dev": "next dev",
